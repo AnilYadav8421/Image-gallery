@@ -18,3 +18,6 @@ The Image Gallery is a dynamic platform dedicated to displaying a curated collec
 - HTML5
 - CSS3 
 - JavaScript 
+
+# Screenshot
+![Screenshot 2024-04-25 115206](https://github.com/AnilYadav8421/Image-gallery/assets/138858484/0d620c5d-1ed1-40c2-9539-376876911ef0)
